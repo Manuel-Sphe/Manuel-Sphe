@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Containerization: Kubernetes**
 
-- 💬 Ask me about React and Python, Java and C/C++**
+- 💬 Ask me about React/React-Native and Python, Java and C/C++**
 
 - 📫 How to reach me **sphesihlemanuel99@gmail.com**
 
@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nkululeko-mbhele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkululekombhele" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sphesihle-mandonsela-880330162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkululekombhele" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sphe_mtimande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkululeko.io" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCctr3zgUNRnH9VQoux-Qc1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nkululeko dot io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
