@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sphesihle Madonsela</h1>
 <h3 align="center">A passionate Software Engineer from South Africa 🇿🇦</h3>
 
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+
 - 🔭 I’m currently working on [Advance React](https://github.com/Manuel-Sphe/Advanced-React)
 
 - 🌱 I’m currently learning **Fundamental Cloud Concepts for AWS**
