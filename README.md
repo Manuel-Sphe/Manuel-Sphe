@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel-sphe&show_icons=true&locale=en" alt="manuel-sphe" /></p>
 
-#### **Visitor Count**
+#### **Visitor Count:**
  ![Visitor Count](https://profile-counter.glitch.me/{Sphe-Manuel}/count.svg)
