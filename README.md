@@ -2,16 +2,7 @@
 <h3 align="center">A passionate Software Engineer from South Africa 🇿🇦</h3>
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
-
-- 🔭 I’m currently working on [Advance React](https://github.com/Manuel-Sphe/Advanced-React)
-
-- 🌱 I’m currently learning **Fundamental Cloud Concepts for AWS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Manuel-Sphe/](https://github.com/Manuel-Sphe/)
-
-- 💬 Ask me about **React, Swift, Data Science**
-
-- 📫 How to reach me **sphesihlemanuel99@gmail.com**
+- Can't quit vim(please help) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
